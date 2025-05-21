@@ -16,3 +16,5 @@ Export of results to .csv and visual comparison with real outcomes
 A key element of this approach is the use of a custom weighting strategy to reflect changing team dynamics over time — instead of treating all past seasons equally, recent seasons carry more predictive power. This helps account for transfers, managerial changes, and form trends.
 
 Additionally, a short presentation (in English) is available and explains the concept behind the model design, the weighting scheme, and the results — it's recommended if you're curious about the regression pipeline and prediction logic!
+
+Football has always been my passion, and I’m planning to expand this project and work on more football-related data science projects in the future.
